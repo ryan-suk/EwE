@@ -1,0 +1,28 @@
+{
+  "title": "Reddit HPV Online Forum Preliminary Analysis",
+  "upload_type": "dataset",
+  "description": "Aggregate reporting package and reproducible Python pipeline for a preliminary qualitative NLP analysis of recent r/HPV Reddit discussions describing HPV-positive or abnormal cervical-screening experiences. The public release excludes raw Reddit posts, comments, and row-level sentence prediction files because the source material concerns sensitive health narratives.",
+  "creators": [
+    {
+      "name": "EmpowerWEmpathy Research Team"
+    }
+  ],
+  "keywords": [
+    "HPV",
+    "cervical screening",
+    "Reddit",
+    "online health communities",
+    "weak supervision",
+    "natural language processing"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ryan-suk/EwE",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Before DOI minting, update creator names and ORCID identifiers if available."
+}

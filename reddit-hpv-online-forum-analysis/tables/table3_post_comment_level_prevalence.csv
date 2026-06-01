@@ -1,0 +1,13 @@
+label,group,source_positive_n,source_positive_pct,source_unit_n
+internalized_stigma,stigma,51,2.4,2121
+relational_stigma,stigma,205,9.67,2121
+transmission_anxiety,stigma,132,6.22,2121
+cancer_fear,distress,428,20.18,2121
+procedure_anxiety,distress,347,16.36,2121
+confusion_uncertainty,distress,89,4.2,2121
+information_seeking,coping,236,11.13,2121
+support_seeking,coping,79,3.72,2121
+supplement_use,coping,258,12.16,2121
+lifestyle_change,coping,257,12.12,2121
+self_advocacy,coping,39,1.84,2121
+cognitive_reframing,coping,179,8.44,2121

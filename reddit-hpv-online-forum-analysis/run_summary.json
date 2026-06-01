@@ -1,0 +1,13 @@
+{
+  "input_path": "C:\\Users\\ryann\\OneDrive\\A_RESEARCH PROGRAMS\\EmpowerWEmpathy\\Prelim Data Analytics\\analysis_outputs\\reddit_hpv_search_extract\\hpv_abnormal_or_positive_237posts_wide.csv",
+  "run_name": "hpv_abnormal_or_positive_237posts",
+  "threads_final_personal_narratives": 208,
+  "sentence_units": 11047,
+  "post_comment_units": 2121,
+  "embedding_model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "labels_modeled": 12,
+  "labels_with_embedding_models": 12,
+  "labels_with_rule_fallback": 0,
+  "rule_reference_path": null,
+  "rule_comparison_available": false
+}

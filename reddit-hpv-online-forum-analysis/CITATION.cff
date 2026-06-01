@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Reddit HPV Online Forum Preliminary Analysis"
+message: "If you use this analysis package, please cite it using the metadata from the archived release DOI."
+type: dataset
+authors:
+  - name: "EmpowerWEmpathy Research Team"
+abstract: "Aggregate reporting package and reproducible Python pipeline for a preliminary qualitative NLP analysis of recent r/HPV Reddit discussions describing HPV-positive or abnormal cervical-screening experiences."
+keywords:
+  - HPV
+  - cervical screening
+  - Reddit
+  - online health communities
+  - weak supervision
+  - natural language processing
+license: MIT
+repository-code: "https://github.com/ryan-suk/EwE"
+date-released: 2026-05-31

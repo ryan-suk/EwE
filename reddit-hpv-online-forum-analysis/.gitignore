@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv/
+venv/
+
+# Sensitive or row-level Reddit-derived files should not be committed.
+*sentence_predictions*.csv
+*seed_frame*.csv
+*wide.csv
+*comments_long.csv
+*raw_search*.json

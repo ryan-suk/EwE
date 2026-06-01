@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="740" viewBox="0 0 1120 740" role="img" aria-label="Figure 1. Sentence-Level Prevalence of Reaction-Oriented Concepts">
+<rect width="100%" height="100%" fill="#FBF7EF"/>
+<style>text{font-family: Georgia, Times, serif; fill:#2D2A26}.label{font-size:21px}.small{font-size:17px; fill:#5E5A54}.title{font-size:33px; font-weight:700}.subtitle{font-size:18px; fill:#6A655F}.pct{font-size:20px; font-weight:700}.axis{stroke:#D8CFC1; stroke-width:1}.tick{font-size:14px; fill:#7B756E}.legend{font-size:16px; fill:#5E5A54}</style>
+<text class="title" x="48" y="48">Figure 1. Sentence-Level Prevalence of Reaction-Oriented Concepts</text>
+<text class="subtitle" x="48" y="76">Weakly supervised labels across 11,047 analyzed sentence units from 208 r/HPV posts and 1,913 comments.</text>
+<line class="axis" x1="260.0" x2="260.0" y1="80" y2="642"/>
+<text class="tick" x="260.0" y="696" text-anchor="middle">0.0%</text>
+<line class="axis" x1="655.0" x2="655.0" y1="80" y2="642"/>
+<text class="tick" x="655.0" y="696" text-anchor="middle">3.1%</text>
+<line class="axis" x1="1050.0" x2="1050.0" y1="80" y2="642"/>
+<text class="tick" x="1050.0" y="696" text-anchor="middle">6.3%</text>
+<text class="label" x="48" y="121">Procedure Anxiety</text>
+<rect x="260" y="103" width="790.0" height="27" rx="9" fill="#C37B2D"/>
+<text class="pct" x="1062.0" y="123">6.28%</text>
+<text class="small" x="1146.0" y="123">n=694</text>
+<text class="label" x="48" y="167">Cancer Fear</text>
+<rect x="260" y="149" width="744.7" height="27" rx="9" fill="#C37B2D"/>
+<text class="pct" x="1016.7" y="169">5.92%</text>
+<text class="small" x="1100.7" y="169">n=654</text>
+<text class="label" x="48" y="213">Lifestyle Change</text>
+<rect x="260" y="195" width="435.3" height="27" rx="9" fill="#4F8A7B"/>
+<text class="pct" x="707.3" y="215">3.46%</text>
+<text class="small" x="791.3" y="215">n=382</text>
+<text class="label" x="48" y="259">Supplement Use</text>
+<rect x="260" y="241" width="429.0" height="27" rx="9" fill="#4F8A7B"/>
+<text class="pct" x="701.0" y="261">3.41%</text>
+<text class="small" x="785.0" y="261">n=377</text>
+<text class="label" x="48" y="305">Relational Stigma</text>
+<rect x="260" y="287" width="418.9" height="27" rx="9" fill="#9C5A4E"/>
+<text class="pct" x="690.9" y="307">3.33%</text>
+<text class="small" x="774.9" y="307">n=368</text>
+<text class="label" x="48" y="351">Information Seeking</text>
+<rect x="260" y="333" width="338.4" height="27" rx="9" fill="#4F8A7B"/>
+<text class="pct" x="610.4" y="353">2.69%</text>
+<text class="small" x="694.4" y="353">n=297</text>
+<text class="label" x="48" y="397">Cognitive Reframing</text>
+<rect x="260" y="379" width="265.4" height="27" rx="9" fill="#4F8A7B"/>
+<text class="pct" x="537.4" y="399">2.11%</text>
+<text class="small" x="621.4" y="399">n=233</text>
+<text class="label" x="48" y="443">Transmission Anxiety</text>
+<rect x="260" y="425" width="221.4" height="27" rx="9" fill="#9C5A4E"/>
+<text class="pct" x="493.4" y="445">1.76%</text>
+<text class="small" x="577.4" y="445">n=194</text>
+<text class="label" x="48" y="489">Confusion Uncertainty</text>
+<rect x="260" y="471" width="120.8" height="27" rx="9" fill="#C37B2D"/>
+<text class="pct" x="392.8" y="491">0.96%</text>
+<text class="small" x="476.8" y="491">n=106</text>
+<text class="label" x="48" y="535">Support Seeking</text>
+<rect x="260" y="517" width="94.3" height="27" rx="9" fill="#4F8A7B"/>
+<text class="pct" x="366.3" y="537">0.75%</text>
+<text class="small" x="450.3" y="537">n=83</text>
+<text class="label" x="48" y="581">Internalized Stigma</text>
+<rect x="260" y="563" width="61.6" height="27" rx="9" fill="#9C5A4E"/>
+<text class="pct" x="333.6" y="583">0.49%</text>
+<text class="small" x="417.6" y="583">n=54</text>
+<text class="label" x="48" y="627">Self Advocacy</text>
+<rect x="260" y="609" width="52.8" height="27" rx="9" fill="#4F8A7B"/>
+<text class="pct" x="324.8" y="629">0.42%</text>
+<text class="small" x="408.8" y="629">n=46</text>
+<rect x="48" y="697" width="18" height="18" rx="5" fill="#C37B2D"/>
+<text class="legend" x="74" y="712">Distress</text>
+<rect x="193" y="697" width="18" height="18" rx="5" fill="#4F8A7B"/>
+<text class="legend" x="219" y="712">Coping</text>
+<rect x="338" y="697" width="18" height="18" rx="5" fill="#9C5A4E"/>
+<text class="legend" x="364" y="712">Stigma</text>
+</svg>
