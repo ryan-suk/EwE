@@ -20,6 +20,11 @@ The public GitHub version can use the included SVG figures for direct rendering.
 
 ## DOI Minting Through Zenodo
 
+DOI minting has been completed for the Zenodo-enabled GitHub release `v1.0.1`.
+
+- Version DOI: `10.5281/zenodo.20481785`
+- Concept DOI for all versions: `10.5281/zenodo.20481784`
+
 1. Sign in to Zenodo with the GitHub account that owns the repository.
 2. Go to Zenodo's GitHub integration page and enable archiving for the repository.
 3. In GitHub, create a release, for example `v1.0.0`.
