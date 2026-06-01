@@ -1,7 +1,7 @@
 {
   "title": "Reddit HPV Online Forum Preliminary Analysis",
   "upload_type": "dataset",
-  "version": "v1.0.1",
+  "version": "v1.0.2",
   "description": "Aggregate reporting package and reproducible Python pipeline for a preliminary qualitative NLP analysis of recent r/HPV Reddit discussions describing HPV-positive or abnormal cervical-screening experiences. The public release excludes raw Reddit posts, comments, and row-level sentence prediction files because the source material concerns sensitive health narratives.",
   "creators": [
     {
@@ -25,5 +25,5 @@
       "scheme": "url"
     }
   ],
-  "notes": "Zenodo archived release DOI: 10.5281/zenodo.20481785. All-versions concept DOI: 10.5281/zenodo.20481784. Update creator names and ORCID identifiers if available."
+  "notes": "Zenodo archived release DOI: 10.5281/zenodo.20482126. All-versions concept DOI: 10.5281/zenodo.20481784. Update creator names and ORCID identifiers if available."
 }

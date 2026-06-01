@@ -36,10 +36,10 @@ Researchers seeking to reproduce the analysis should use the provided pipeline a
 
 ## DOI
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20481785.svg)](https://doi.org/10.5281/zenodo.20481785)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20482126.svg)](https://doi.org/10.5281/zenodo.20482126)
 
-The Zenodo archived release DOI is [10.5281/zenodo.20481785](https://doi.org/10.5281/zenodo.20481785). The all-versions concept DOI is [10.5281/zenodo.20481784](https://doi.org/10.5281/zenodo.20481784).
+The Zenodo archived release DOI is [10.5281/zenodo.20482126](https://doi.org/10.5281/zenodo.20482126). The all-versions concept DOI is [10.5281/zenodo.20481784](https://doi.org/10.5281/zenodo.20481784).
 
 ## Suggested Citation
 
-Suk's Decision Science Lab. (2026). `ryan-suk/EwE: Reddit HPV Online Forum Preliminary Analysis v1.0.1` (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20481785
+Suk's Decision Science Lab. (2026). `ryan-suk/EwE: Updated EwE repository archive v1.0.2` (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.20482126
