@@ -35,5 +35,3 @@ Researchers seeking to reproduce the analysis should use the provided pipeline a
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20482126.svg)](https://doi.org/10.5281/zenodo.20482126)
 
 The Zenodo archived release DOI is [10.5281/zenodo.20482126](https://doi.org/10.5281/zenodo.20482126). The all-versions concept DOI is [10.5281/zenodo.20481784](https://doi.org/10.5281/zenodo.20481784).
-
-## Suggested Citation
